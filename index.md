@@ -4,7 +4,7 @@ I'm a data scientist from California.
 
 ### Projects
 
-####[My data storytelling project](project1)
+#### [My data storytelling project](project1)
 
 #### [Recreating a 538 visualization](https://colab.research.google.com/drive/1ZVW3DpvTJdVgHLfvmZ-OfnIwyGxoGYKO#scrollTo=svHlRfEaUlMr)
 
