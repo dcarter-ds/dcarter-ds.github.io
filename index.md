@@ -10,6 +10,8 @@ I'm a data scientist from California.
 
 To practice creating data visualizations with Python, I recreated a plot from a 538 about an Al Gore documentary.
 
+<img src="GS bear market risk indicator.png" height="150>
+
 ### Contact
 - [Email](mailto:carteri246gmail.com)
 - [Linkedin](http://a.com)
