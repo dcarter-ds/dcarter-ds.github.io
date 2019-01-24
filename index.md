@@ -1,6 +1,6 @@
 ### Data Scientist
 
-I'm a data scientist from the West coast.
+I'm a data scientist from California.
 
 ### Projects
 
