@@ -1,3 +1,5 @@
+![](cos_curves.png)
+
 ### Data Scientist
 
 Welcome,
