@@ -9,9 +9,11 @@ I'm a data scientist from Northern California with a background in Finance. My i
 #### [Is 'Buy and Hold' a Good Investment Strategy?](project1)
 Inflation-adjusted stock prices might make you think twice.
 
+
+
+
 More projects coming soon...
 
-<img src="GS bear market risk indicator.png" height="150>
 
 ### Contact
 - [Email](mailto:carteri246gmail.com)
