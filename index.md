@@ -1,17 +1,18 @@
 ### Data Scientist
 
-I'm a data scientist from California.
+Welcome,
+
+I'm a data scientist from Northern California with a background in Finance. My interests are markets, history, nature and robotics.
 
 ### Projects
 
-#### [My data storytelling project](project1)
+#### [Is 'Buy and Hold' a Good Investment Strategy?](project1)
+Inflation-adjusted stock prices might make you think twice.
 
-#### [Recreating a 538 visualization](https://colab.research.google.com/drive/1ZVW3DpvTJdVgHLfvmZ-OfnIwyGxoGYKO#scrollTo=svHlRfEaUlMr)
-
-To practice creating data visualizations with Python, I recreated a plot from a 538 about an Al Gore documentary.
+More projects coming soon...
 
 <img src="GS bear market risk indicator.png" height="150>
 
 ### Contact
 - [Email](mailto:carteri246gmail.com)
-- [Linkedin](http://a.com)
+- [Medium](https://medium.com/@daniel_carter)
