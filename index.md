@@ -1,4 +1,4 @@
-![](cos_curves.png)
+![](cos_curves.PNG)
 
 ### Data Scientist
 
