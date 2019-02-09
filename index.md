@@ -4,7 +4,7 @@
 
 Welcome,
 
-I'm a data scientist from Northern California with a background in Finance. My interests are markets, history, nature and robotics.
+I'm a data scientist from Northern California with a background in Finance. My interests are markets, history, human nature and robotics.
 
 ### Projects
 
