@@ -2,7 +2,7 @@
 
 ![](nba_career_gif.gif)
 
-Many legendary investors have stressed the importance of the Buy and Hold strategy. 
-And studies show that investors hurt their profitability most when they try to time the oscillations of the market. 
-But Buy and Hold may not always be a good idea. 
-[CONTINUE READING](https://medium.com/@daniel_carter/is-buy-and-hold-a-good-investment-strategy-fe2d43266bb5)
+How long will a player last in the NBA? This is a question asked by casual fans as well as 
+scouts when evaluating NBA players from their early days on the court up to their tenth year 
+in the league. With the NBA Career Predictor app, you can find out how long your favorite NBA players will
+last in the league.[VISIT SITE HERE](https://nbacareerlength.netlify.com/)
