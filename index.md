@@ -10,10 +10,13 @@ I'm a data scientist from Northern California with a background in Finance. My i
 
 
 #### [Is 'Buy and Hold' a Good Investment Strategy?](buy_and_hold)
-Inflation-adjusted stock prices might make you think twice.
+Data visualizations that will make you think twice before using a "Buy and Hold" strategy.
 
 #### [NBA Career Longevity Predictor](nba_career)
-Inflation-adjusted stock prices might make you think twice.
+Find out how long your favorite NBA players will last in the league with the NBA Career Predictor app.
+
+#### [Reading Recommender](read_rec)
+With the Reading Recommender app, take a simple survey and get recommended a great book based on your tastes. Coming soon...
 
 <br><br>
 <br><br>
