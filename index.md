@@ -9,7 +9,7 @@ I'm a data scientist from Northern California with a background in Finance. My i
 ### Projects
 
 
-#### [Is 'Buy and Hold' a Good Investment Strategy?](project1)
+#### [Is 'Buy and Hold' a Good Investment Strategy?](buy_and_hold)
 Inflation-adjusted stock prices might make you think twice.
 
 <br><br>
