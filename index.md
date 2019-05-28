@@ -16,7 +16,7 @@ Data visualizations that will make you think twice before using a "Buy and Hold"
 Find out how long your favorite NBA players will last in the league with the NBA Career Predictor app.
 
 #### [Reading Recommender](read_rec)
-With the Reading Recommender app, take a simple survey and get recommended a great book based on your tastes. Coming soon...
+With the Reading Recommender app, take a simple survey and get recommended a great book based on your tastes.
 
 <br><br>
 <br><br>
