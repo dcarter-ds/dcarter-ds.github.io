@@ -2,7 +2,4 @@
 
 ![](aqi_gif.gif)
 
-How long will a player last in the NBA? This is a question asked by casual fans as well as 
-scouts when evaluating NBA players from their early days on the court up to their tenth year 
-in the league. With the NBA Career Predictor app, you can find out how long your favorite NBA players will
-last in the league. [VISIT APP HERE](https://nbacareerlength.netlify.com/)
+This algorithm was built for a small business for the purposes of finding low air quality zip codes in the US for targeted advertising. The algorithm scrapes the airnow.gov website, maps low air quality locations to their corresponding zip codes and returns the zip codes, state, city and AQI values in a csv file. [VIEW CODE HERE](https://github.com/tesseract314/tesseract314.github.io/blob/master/AQI_Zip_Codes.ipynb)
