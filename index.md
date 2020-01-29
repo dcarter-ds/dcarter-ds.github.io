@@ -1,6 +1,6 @@
 <img src="cos_curves.PNG" alt="banner" width="875"/>
 
-### Data Scientist
+## Daniel Carter
 
 Welcome,
 
