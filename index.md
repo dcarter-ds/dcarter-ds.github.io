@@ -24,4 +24,5 @@ An algorithm that scrapes air quality data from airnow.gov and converts the loca
 
 ### Contact
 - [Email](mailto:carteri246gmail.com)
+- [GitHub](https://github.com/dcarter-ds)
 - [Medium](https://medium.com/@daniel_carter)
