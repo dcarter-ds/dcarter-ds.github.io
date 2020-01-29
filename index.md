@@ -10,6 +10,7 @@ I'm a Freelance Data Scientist from Northern California with a background in Fin
 
 #### [NBA Career Longevity Predictor](nba_career)
 Find out how long your favorite NBA players will last in the league with the NBA Career Predictor app.
+<img src="nba_thumb.PNG" alt="nba_thumbnail" width="500"/>
 
 #### [Is 'Buy and Hold' a Good Investment Strategy?](buy_and_hold)
 Data visualizations that will make you think twice before using a "Buy and Hold" strategy.
