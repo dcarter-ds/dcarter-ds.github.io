@@ -14,12 +14,15 @@ Find out how long your favorite NBA players will last in the league with the NBA
 
 #### [Is 'Buy and Hold' a Good Investment Strategy?](buy_and_hold)
 Data visualizations that will make you think twice before using a "Buy and Hold" strategy.
+<img src="bh_thumb.PNG" alt="bh_thumbnail" width="500"/>
 
 #### [Reading Recommender](read_rec)
 With the Reading Recommender app, take a simple survey and get recommended a great book based on your tastes.
+<img src="read_thumb.PNG" alt="read_thumbnail" width="500"/>
 
 #### [Air Quality Advertising](aqi)
 An algorithm that scrapes air quality data from airnow.gov and converts the locations to zip codes for targeted advertising.
+<img src="air_thumb.PNG" alt="air_thumbnail" width="500"/>
 
 <br><br>
 
