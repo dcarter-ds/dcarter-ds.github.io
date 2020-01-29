@@ -1,10 +1,8 @@
 <img src="cos_curves.PNG" alt="banner" width="875"/>
 
-## Daniel Carter
-
 Welcome,
 
-I'm a data scientist from Northern California with a background in Finance. My interests are markets, history, human nature and robotics.
+I'm a Freelance Data Scientist from Northern California with a background in Finance. My interests are markets, history, human nature and robotics.
 
 ### Projects
 
