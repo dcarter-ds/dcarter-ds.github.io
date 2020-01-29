@@ -1,6 +1,4 @@
-![](/cos_curves.PNG =250x)
-
-<img src="cos_curves.PNG" alt="banner" width="250"/>
+<img src="cos_curves.PNG" alt="banner" width="750"/>
 
 ### Data Scientist
 
