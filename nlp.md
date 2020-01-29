@@ -1,4 +1,4 @@
-## Deriving Meaning From Text Data
+## In-Depth Guide to NLP
 
 ![](nlp_gif.gif)
 
