@@ -4,9 +4,7 @@ Welcome,
 
 I'm a Freelance Data Scientist from Northern California with a background in Finance. My interests are markets, history, human nature and robotics.
 
-<br><br>
-
-### Projects
+## Projects
 
 #### [NBA Career Longevity Predictor](nba_career)
 Find out how long your favorite NBA players will last in the league with the NBA Career Predictor app.
