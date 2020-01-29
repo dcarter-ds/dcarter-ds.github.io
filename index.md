@@ -22,6 +22,10 @@ With the Reading Recommender app, take a simple survey and get recommended a gre
 An algorithm that scrapes air quality data from airnow.gov and converts the locations to zip codes for targeted advertising.
 <img src="air_thumb.PNG" alt="air_thumbnail" height="300" width="500"/>
 
+#### [Deriving Meaning From Text Data](nlp)
+In-depth analysis of unstructured text data using some of the leading-edge Natural Language Processing techniques.
+<img src="nlp_thumb.PNG" alt="nlp_thumbnail" height="300" width="500"/>
+
 <br><br>
 
 ### Contact
