@@ -1,4 +1,4 @@
-![](cos_curves.PNG =250x)
+![](/cos_curves.PNG =250x)
 
 ### Data Scientist
 
