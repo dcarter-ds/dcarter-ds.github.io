@@ -1,5 +1,7 @@
 ![](/cos_curves.PNG =250x)
 
+<img src="cos_curves.PNG" alt="banner" width="250"/>
+
 ### Data Scientist
 
 Welcome,
