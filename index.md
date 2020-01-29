@@ -1,4 +1,3 @@
-![bg](red)
 <img src="cos_curves.PNG" alt="banner" width="875"/>
 
 Welcome,
