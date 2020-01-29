@@ -1,4 +1,4 @@
-<img src="cos_curves.PNG" alt="banner" width="750"/>
+<img src="cos_curves.PNG" alt="banner" width="850"/>
 
 ### Data Scientist
 
