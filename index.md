@@ -21,7 +21,6 @@ With the Reading Recommender app, take a simple survey and get recommended a gre
 An algorithm that scrapes air quality data from airnow.gov and converts the locations to zip codes for targeted advertising.
 
 <br><br>
-<br><br>
 
 ### Contact
 - [Email](mailto:carteri246gmail.com)
