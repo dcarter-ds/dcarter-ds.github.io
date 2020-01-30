@@ -1,6 +1,6 @@
 ## LendingClub Prediction
 
-[](lend.PNG)
+<img src="lend_thumb.PNG" alt="lend_thumbnail" width="850"/>
 
 #### Summary:
 This Jupyter notebooks walks through some of the most crucial steps in building a viable Machine Learning model, including feature engineering, hyperparameter tuning, permutation importances and model validation. [VIEW CODE HERE](https://github.com/dcarter-ds/dcarter-ds.github.io/blob/master/Lending_Club_Classification.ipynb)
