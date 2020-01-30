@@ -26,6 +26,9 @@ Data visualizations that will make you think twice before using a "Buy and Hold"
 An algorithm that scrapes air quality data from airnow.gov and converts the locations to zip codes for targeted advertising.
 <img src="air_thumb.PNG" alt="air_thumbnail" height="300" width="500"/>
 
+#### [Real-time Twitter Sentiment Dashboard](na)
+Coming soon...
+
 <br><br>
 
 ### Contact
