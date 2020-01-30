@@ -3,14 +3,14 @@
 [](lend.PNG)
 
 #### Summary:
-This algorithm was built for a small business for the purpose of finding low air quality zip codes in the US for targeted advertising. The algorithm scrapes the airnow.gov website, maps low air quality locations to their corresponding zip codes and returns the zip codes, state, city and AQI values in a csv file. [VIEW CODE HERE](https://github.com/tesseract314/tesseract314.github.io/blob/master/AQI_Zip_Codes.ipynb)
+This Jupyter notebooks walks through some of the most crucial steps in building a viable Machine Learning model, including feature engineering, hyperparameter tuning, permutation importances and model validation. [VIEW CODE HERE](https://github.com/dcarter-ds/dcarter-ds.github.io/blob/master/Lending_Club_Classification.ipynb)
 
 #### Technical Overview:
-The goal of this project was to retrieve regions in the US with low air quality and convert those regions to zip codes. This algorithm was used by a pollution mask company to help with targeted advertising. Some code and data was redacted to not give away the client's competitive advantage.
+The goal of this project was to build the most accurate Machine Learning model to predict whether or not a LendingClub loan would be charged off. One of the big challenges with this project was dealing with the size of the data (1.3 million rows). To cut down on overly lengthy processing times, I split the data into train, test and validation sets. This not only reduced processing times but gave me an extra holdout dataset for model validation.
 
-Pandas' read_html function was used to pull the air quality data into a dataframe. The resulting dataframe was messy and required a bit of logic to match each region to the correct air quality. There was also an issue reading zip codes from an Excel spreadsheet. When a number in an Excel column starts with zero, Excel truncates the zero. And, because many zip codes legitimately start with zero, the algorithm was missing those zip codes at first. I simply had to change the format within the Excel file to correct the issue.
+Other issues were categorical features with high cardinality or high null value counts. To deal with the high cardinality features, it helped to combine categories. For example, "General Manager" and "Project Manager" were turned into "manager" in the employe title column. I simplified some of the high null columns by making nulls True and not null "False". This sounds overly simplistic but some of those columns did contribute predictive power.
 
-As of now, the script runs a little slow. To speed things up, I will use thread pools for the website requests.
+To optimize the model, I used a combination of Scikit-learn's Gridsearch CV for hyperparameter tuning and ELI5's permutation importances (also to cut down on processing time by eliminating features). I also tried a variety of different classification models, including XGBoost, Gradient Boosting Classifier and Random Forest Classifier. XGBoost gave the best accuracy score.
 
 #### Technology Used:
 - Scikit-learn
