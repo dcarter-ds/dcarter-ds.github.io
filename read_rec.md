@@ -14,7 +14,7 @@ The model was pickled (serialized) to be used in production. Flask was used to b
 The biggest challenge of this project was the inability to label enough data due to time constraints. A more automated data labeling approach -- possibly through topic modeling or rule-based classification -- would have given users a wider range of book recommendations.
 
 #### Technology Used:
-- Pandas
+- Flask
 - Beautiful Soup
 - Scikit-learn
-- Flask
+- Pandas
