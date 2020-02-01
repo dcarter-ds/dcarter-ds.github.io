@@ -20,12 +20,12 @@ To discover dominant themes within the responses, I used word cloud diagrams and
 
 
 #### Technology Used:
-- Pandas
-- Numpy
-- Plotly
-- Scikit-learn
 - NLTK
 - Spacy
 - Gensim
 - pyLDAvis
+- Plotly
+- Scikit-learn
 - Wordcloud
+- Pandas
+- Numpy
