@@ -10,9 +10,10 @@ The goal of this project was to retrieve regions in the US with low air quality 
 
 Pandas' read_html function was used to pull the air quality data into a dataframe. The resulting dataframe was messy and required a bit of logic to match each region to the correct air quality. There was also an issue reading zip codes from an Excel spreadsheet. When a number in an Excel column starts with zero, Excel truncates the zero. And, because many zip codes legitimately start with zero, the algorithm was missing those zip codes at first. I simply had to change the format within the Excel file to correct the issue.
 
-As of now, the script runs a little slow. To speed things up, I will use thread pools for the website requests.
+After the first iteration of the script, I noticed it ran a bit slow. To speed things up, I used thread pools for the website requests.
 
 #### Technology Used:
+- ThreadPoolExecutor
 - Requests
 - Numpy
 - Pandas
