@@ -33,7 +33,8 @@ Predict the probability of loan charge-offs with a real dataset from peer-to-pee
 #### [Real-time Twitter Sentiment Dashboard](na)
 Coming soon...
 
-#### [Blogs](https://medium.com/@daniel_carter)
+#### [Blog](https://medium.com/@daniel_carter)
+Check out my blog about data and programming.
 
 <br><br>
 
